@@ -1,16 +1,5 @@
 # Cronexia-front
 
-## Execution du code
-
-Node.JS version used: v18.18.0. It can simply be installed through `nvm install && nvm use` or in any method of your choice if you don't use nvm.
-
-- First run:
-	- `npm install`
-	- `npx tsc`
-
-## Front end:
-- `npm run server`: The website can be accessible through `http://localhost:5000/`. There is honnestly nothing to see.
-
 # Reponse théorique:
 
 1. Le FOUC est le fait qu'une page puisse s'afficher à l'utilisateur avant que les fichiers de style ne soient reçus par le client. Ce qui résulte, en bref, un affichage sans style et très sommaire.
